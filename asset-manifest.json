@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Primes-Info/static/css/main.df13225d.chunk.css",
-    "main.js": "/Primes-Info/static/js/main.2f51133a.chunk.js",
-    "main.js.map": "/Primes-Info/static/js/main.2f51133a.chunk.js.map",
+    "main.js": "/Primes-Info/static/js/main.0f467e67.chunk.js",
+    "main.js.map": "/Primes-Info/static/js/main.0f467e67.chunk.js.map",
     "runtime-main.js": "/Primes-Info/static/js/runtime-main.ecf45f8e.js",
     "runtime-main.js.map": "/Primes-Info/static/js/runtime-main.ecf45f8e.js.map",
     "static/js/2.303517bd.chunk.js": "/Primes-Info/static/js/2.303517bd.chunk.js",
     "static/js/2.303517bd.chunk.js.map": "/Primes-Info/static/js/2.303517bd.chunk.js.map",
     "index.html": "/Primes-Info/index.html",
-    "precache-manifest.229c0aa0a82291956d3ddc8c0057c356.js": "/Primes-Info/precache-manifest.229c0aa0a82291956d3ddc8c0057c356.js",
+    "precache-manifest.87364dfc6cbc7689c6011ae41c6da9b6.js": "/Primes-Info/precache-manifest.87364dfc6cbc7689c6011ae41c6da9b6.js",
     "service-worker.js": "/Primes-Info/service-worker.js",
     "static/css/main.df13225d.chunk.css.map": "/Primes-Info/static/css/main.df13225d.chunk.css.map",
     "static/js/2.303517bd.chunk.js.LICENSE.txt": "/Primes-Info/static/js/2.303517bd.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ecf45f8e.js",
     "static/js/2.303517bd.chunk.js",
     "static/css/main.df13225d.chunk.css",
-    "static/js/main.2f51133a.chunk.js"
+    "static/js/main.0f467e67.chunk.js"
   ]
 }
